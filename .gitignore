@@ -1,0 +1,9 @@
+# Captured traffic — never commit real target data
+*.pcap
+*.pcapng
+
+# Misc
+*.log
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+scapy>=2.5.0
+
+# System packages (Linux only — install via apt, not pip):
+#   apt install iproute2        # needed for tc bandwidth limiting (--rate flag)
